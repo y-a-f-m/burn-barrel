@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 2022-02-27
+  Changes:
+    - Damaged barrel recycling recipe is now automatically generated, to reduce the possibility of infinite resource loops
+    - Added a changelog
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2022-02-23
+  Features:
+    - Just yeet those barrels straight into the fire it's fine we're doing this Haliburton style
+    - Damaged barrels come out, but you can melt them down into more iron plates (if you're Captain Planet)
+    - Changes solid fuel into asphalt blocks - you can still burn it, but it'll pollute to high heaven and isn't that efficient to boot
+    - Barrel fuel values should scale with mods that alter barrel capacity
+    - You can burn lubricant too, I mean why not
+---------------------------------------------------------------------------------------------------

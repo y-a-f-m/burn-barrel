@@ -1,9 +1,9 @@
 {
   "name": "Burn-Barrel",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "factorio_version": "1.1",
   "title": "Burn Barrel",
   "author": "digital_pet",
   "description": "Yeet them right into the fire.",
-  "dependencies": ["base >= 1.1.0", "? dirtybarrels >= 1.1.0", "? Barrel-Size >= 1.0.3"]
+  "dependencies": ["base >= 1.1.0", "? dirtybarrels >= 1.1.0", "? Barrel-Size >= 1.0.3", "? Ingredient_Scrap >= 1.1.5" ]
 }
