@@ -49,7 +49,6 @@ data:extend({
         },
 		results=
 		{
-			{ type = "item", name = "iron-plate", amount = 4 }
 		},
         name = "smelt-rusty-barrel",
 		subgroup="intermediate-product",
